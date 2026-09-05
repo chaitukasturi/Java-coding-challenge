@@ -64,7 +64,7 @@ Simply asking an AI to "build the entire application" and submitting that output
 The project was generated through the Spring initializer [1] for Java
  21 with Spring Boot 3.2.2, dev tools and Spring Web as dependencies. In order to build and
  run it, you just need to click the green arrow in the Application class in your Intellij
- CE IDE or run the following command from your project root und Linux or ios. 
+ CE IDE or run the following command from your project root on Linux or macOS. 
 
 ````shell script
 $ mvn spring-boot:run
